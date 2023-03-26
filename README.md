@@ -3,11 +3,6 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/zzhaozhe?style=social)](https://twitter.com/zzhaozhe)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Zhe%20Zhao-blue)](www.linkedin.com/in/zhe-zhao-67088910b)
 
-<picture>
-    <source media="(prefers-color-scheme: radical)" srcset="https://github-readme-stats.vercel.app/api?username=zzhaozheUM&show_icons=true&theme=radical">
-    <img align="top" width="50%" src="https://github-readme-stats.vercel.app/api?username=zzhaozheUM&show_icons=true&theme=radical">
-</picture>
-
 ### :page_facing_up: About me 
 
 - :mortar_board: I'm a PhD student studying Learning Health Systems at [Umich](https://medicine.umich.edu/dept/learning-health-sciences). 
@@ -24,6 +19,11 @@
 - Watching soccer games :soccer:
 - Contributing to [Tidier.jl](https://github.com/kdpsingh/Tidier.jl), an R user’s love letter to data analysis in Julia.
 - Know more about U-M grad student workers [strike](https://www.geo3550.org/category/geo-news/)
+
+<picture>
+    <source media="(prefers-color-scheme: radical)" srcset="https://github-readme-stats.vercel.app/api?username=zzhaozheUM&show_icons=true&theme=radical">
+    <img align="top" width="50%" src="https://github-readme-stats.vercel.app/api?username=zzhaozheUM&show_icons=true&theme=radical">
+</picture>
 
 **_recently discovered favorite music video_**
 
