@@ -9,7 +9,7 @@
 - :hospital: I analyze data and build models to solve problems in healthcare.
 - :computer: R/Julia/Python.
 - :bowtie: I love hiking, scuba diving, movies:clapper:, musics:notes: and making coffee:coffee:
-- :muscle: Support our grad-student workers [GEO](https://www.geo3550.org/)
+- :muscle: Support grad-student workers at Umich [GEO](https://www.geo3550.org/)
 - ⚡ Fun fact: 我会讲中文
 
 ### While I'm not sleeping :zzz:
