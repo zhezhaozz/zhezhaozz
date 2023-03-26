@@ -20,8 +20,7 @@
 - Contributing to [Tidier.jl](https://github.com/kdpsingh/Tidier.jl), an R user’s love letter to data analysis in Julia.
 - Know more about U-M grad student workers [strike](https://www.geo3550.org/category/geo-news/)
 
-[![Zhe's github stats](https://github-readme-stats.vercel.app/api?username=zzhaozheUM&show_icons=true&theme=radical)]https://github.com/anuraghazra/github-readme-stats)
-
+[![Zhe's github stats](https://github-readme-stats.vercel.app/api?username=zzhaozheUM&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 **_recently discovered favorite music video_**
 
