@@ -12,6 +12,10 @@
 - :muscle: Support grad-student workers at Umich [GEO](https://www.geo3550.org/)
 - ⚡ Fun fact: 我会讲中文
 
+**_recently discovered favorite music video_**
+
+[![](https://img.youtube.com/vi/U-bXx_4Nwx8/hqdefault.jpg)](https://youtu.be/U-bXx_4Nwx8)
+
 ### While I'm not sleeping :zzz:
 
 - Complain my school works.
