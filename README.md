@@ -3,6 +3,11 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/zzhaozhe?style=social)](https://twitter.com/zzhaozhe)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Zhe%20Zhao-blue)](www.linkedin.com/in/zhe-zhao-67088910b)
 
+<picture>
+    <source media="(prefers-color-scheme: radical)" srcset="https://github-readme-stats.vercel.app/api?username=zzhaozheUM&show_icons=true&theme=radical">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=zzhaozheUM&show_icons=true&theme=radical">
+</picture>
+
 ### :page_facing_up: About me 
 
 - :mortar_board: I'm a PhD student studying Learning Health Systems at [Umich](https://medicine.umich.edu/dept/learning-health-sciences). 
@@ -12,10 +17,6 @@
 - :muscle: Support grad-student workers at Umich [GEO](https://www.geo3550.org/)
 - ⚡ Fun fact: 我会讲中文
 
-**_recently discovered favorite music video_**
-
-[![](https://img.youtube.com/vi/U-bXx_4Nwx8/hqdefault.jpg)](https://youtu.be/U-bXx_4Nwx8)
-
 ### While I'm not sleeping :zzz:
 
 - Complain my school works.
@@ -24,7 +25,10 @@
 - Contributing to [Tidier.jl](https://github.com/kdpsingh/Tidier.jl), an R user’s love letter to data analysis in Julia.
 - Know more about U-M grad student workers [strike](https://www.geo3550.org/category/geo-news/)
 
-[![Zhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzhaozheUM&show_icons=true&theme=radical)](https://github.com/zzhaozheUM/github-readme-stats)
+**_recently discovered favorite music video_**
+
+[![](https://img.youtube.com/vi/U-bXx_4Nwx8/hqdefault.jpg)](https://youtu.be/U-bXx_4Nwx8)
+
 
 <!--
 **zzhaozheUM/zzhaozheUM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
