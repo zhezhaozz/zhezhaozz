@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/zzhaozhe?style=social)](https://twitter.com/zzhaozhe)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Zhe%20Zhao-blue)](www.linkedin.com/in/zhe-zhao-67088910b)
 
-### :page_facing_up: About me 
+### :page_facing_up: About me :pig_nose:
 
 - :mortar_board: I'm a PhD student studying Learning Health Systems at [Umich](https://medicine.umich.edu/dept/learning-health-sciences). 
 - :hospital: I analyze data and build models to solve problems in healthcare.
