@@ -1,4 +1,4 @@
-## Hi I'm Zhe 👋
+# Hi I'm Zhe 👋
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/zzhaozhe?style=social)](https://twitter.com/zzhaozhe)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Zhe%20Zhao-blue)](www.linkedin.com/in/zhe-zhao-67088910b)
