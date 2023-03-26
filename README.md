@@ -1,7 +1,7 @@
 # Hi I'm Zhe 👋
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/zzhaozhe?style=social)](https://twitter.com/zzhaozhe)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Zhe%20Zhao-blue)](www.linkedin.com/in/zhe-zhao-67088910b)
+[![LinkedIn Badge](https://img.shields.io/badge/Twitter-zzhaozhe-blue)](https://twitter.com/zzhaozhe)
 
 ### :page_facing_up: About me :pig_nose:
 
@@ -14,7 +14,7 @@
 
 ### While I'm not sleeping :zzz:
 
-- Complain my school works.
+- Complain about my school works.
 - Retweet stats/ML jokes from my [BOSS](https://medicine.umich.edu/dept/lhs/karandeep-singh-md-mmsc) 
 - Watching soccer games :soccer:
 - Contributing to [Tidier.jl](https://github.com/kdpsingh/Tidier.jl), an R user’s love letter to data analysis in Julia.
