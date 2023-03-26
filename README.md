@@ -5,7 +5,7 @@
 
 <picture>
     <source media="(prefers-color-scheme: radical)" srcset="https://github-readme-stats.vercel.app/api?username=zzhaozheUM&show_icons=true&theme=radical">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=zzhaozheUM&show_icons=true&theme=radical">
+    <img align="top" width="50%" src="https://github-readme-stats.vercel.app/api?username=zzhaozheUM&show_icons=true&theme=radical">
 </picture>
 
 ### :page_facing_up: About me 
