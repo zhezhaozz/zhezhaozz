@@ -19,7 +19,7 @@
 ### While I'm not sleeping :zzz:
 
 - Complain my school works.
-- Retweet stats/ML jokes from my BOSS [Karandeep](https://medicine.umich.edu/dept/lhs/karandeep-singh-md-mmsc) 
+- Retweet stats/ML jokes from my [BOSS](https://medicine.umich.edu/dept/lhs/karandeep-singh-md-mmsc) 
 - Watching soccer games :soccer:
 - Contributing to [Tidier.jl](https://github.com/kdpsingh/Tidier.jl), an R user’s love letter to data analysis in Julia.
 - Know more about U-M grad student workers [strike](https://www.geo3550.org/category/geo-news/)
