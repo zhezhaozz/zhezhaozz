@@ -1,6 +1,9 @@
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Zhe%20Zhao-blue)](www.linkedin.com/in/zhe-zhao-67088910b)
+[![LinkedIn Badge](https://img.shields.io/badge/Twitter-zzhaozhe-blue)](https://twitter.com/zzhaozhe)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F6F70A&width=435&lines=Hello%2C+my+name+is+Zhe)](https://git.io/typing-svg)
 
-### :page_facing_up: About me :pig_nose:
+### :pig_nose: About me 
 
 - :mortar_board: I'm a PhD student studying Learning Health Systems at [Umich](https://medicine.umich.edu/dept/learning-health-sciences). 
 - :hospital: I analyze data and build models to solve problems in healthcare.
@@ -8,10 +11,6 @@
 - :bowtie: I love hiking, scuba diving, movies:clapper:, musics:notes: and making coffee:coffee:
 - :muscle: Support grad-student workers at Umich [GEO](https://www.geo3550.org/)
 - ⚡ Fun fact: 我会讲中文
-
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Zhe%20Zhao-blue)](www.linkedin.com/in/zhe-zhao-67088910b)
-[![LinkedIn Badge](https://img.shields.io/badge/Twitter-zzhaozhe-blue)](https://twitter.com/zzhaozhe)
 
 ### While I'm not sleeping :zzz:
 
