@@ -1,4 +1,4 @@
-# Hi I'm Zhe 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Zhe)](https://git.io/typing-svg)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Zhe%20Zhao-blue)](www.linkedin.com/in/zhe-zhao-67088910b)
 [![LinkedIn Badge](https://img.shields.io/badge/Twitter-zzhaozhe-blue)](https://twitter.com/zzhaozhe)
