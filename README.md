@@ -7,24 +7,12 @@
 
 - :mortar_board: I'm a PhD student studying Learning Health Systems at [Umich](https://medicine.umich.edu/dept/learning-health-sciences). 
 - :hospital: I analyze data and build models to solve problems in healthcare.
+- I'm actively contributing to [Tidier.jl](https://github.com/kdpsingh/Tidier.jl), an R user’s love letter to data analysis in Julia.
 - :computer: R/Julia/Python.
-- :bowtie: I love hiking, scuba diving, movies:clapper:, musics:notes: and making coffee:coffee:
-- :muscle: Support grad-student workers at Umich [GEO](https://www.geo3550.org/)
-- ⚡ Fun fact: 我会讲中文
-
-### While I'm not sleeping :zzz:
-
-- Complain about my school works.
-- Retweet stats/ML jokes from my [BOSS](https://medicine.umich.edu/dept/lhs/karandeep-singh-md-mmsc) 
-- Watching soccer games :soccer:
-- Contributing to [Tidier.jl](https://github.com/kdpsingh/Tidier.jl), an R user’s love letter to data analysis in Julia.
-- Know more about U-M grad student workers [strike](https://www.geo3550.org/category/geo-news/)
+- :muscle: Support grad-student worker strike at Umich [GEO](https://www.geo3550.org/)
 
 [![Zhe's github stats](https://github-readme-stats.vercel.app/api?username=zhezhaozz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-**_recently discovered favorite music video_**
-
-[![](https://img.youtube.com/vi/U-bXx_4Nwx8/hqdefault.jpg)](https://youtu.be/U-bXx_4Nwx8)
 
 
 <!--
