@@ -9,7 +9,6 @@
 - :hospital: I analyze data and build models to solve problems in healthcare.
 - I'm actively contributing to [Tidier.jl](https://github.com/kdpsingh/Tidier.jl), an R user’s love letter to data analysis in Julia.
 - :computer: R/Julia/Python.
-- :muscle: Support grad-student worker strike at Umich [GEO](https://www.geo3550.org/)
 
 [![Zhe's github stats](https://github-readme-stats.vercel.app/api?username=zhezhaozz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
