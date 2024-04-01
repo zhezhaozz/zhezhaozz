@@ -6,8 +6,7 @@
 ### :pig_nose: About me 
 
 - :mortar_board: I'm a PhD student studying Learning Health Systems at [Umich](https://medicine.umich.edu/dept/learning-health-sciences). 
-- :hospital: I analyze data and build models to solve problems in healthcare.
-- I'm actively contributing to [Tidier.jl](https://github.com/kdpsingh/Tidier.jl), an R user’s love letter to data analysis in Julia.
+- :hospital: I analyze clinical texts and build models to solve problems in healthcare.
 - :computer: R/Julia/Python.
 
 [![Zhe's github stats](https://github-readme-stats.vercel.app/api?username=zhezhaozz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
