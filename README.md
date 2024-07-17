@@ -1,5 +1,6 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Zhe%20Zhao-blue)](www.linkedin.com/in/zhe-zhao-67088910b)
-[![LinkedIn Badge](https://img.shields.io/badge/Twitter-zzhaozhe-blue)](https://twitter.com/zzhaozhe)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-Zhe%20Zhao-blue)](www.linkedin.com/in/zhe-zhao-67088910b)
+[![Static Badge](https://img.shields.io/badge/Twitter-zzhaozhe-white)](https://twitter.com/zzhaozhe)
+[![Static Badge](https://img.shields.io/badge/Website-Zhe%20Zhao-pink)](https://zhezhaozz.github.io/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F6F70A&width=435&lines=Hello%2C+my+name+is+Zhe)](https://git.io/typing-svg)
 
