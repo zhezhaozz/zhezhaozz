@@ -10,7 +10,11 @@
 - :hospital: I analyze clinical texts and build models to solve problems in healthcare.
 - :computer: R/Julia/Python.
 
-[![Zhe's github stats](https://github-readme-stats.vercel.app/api?username=zhezhaozz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
+<div align="center" style="display: float; float-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=zhezhaozz&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhezhaozz&show_icons=true&theme=radical&layout=compact" />
+</div>
 
 
 
