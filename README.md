@@ -13,7 +13,7 @@
 ---
 <div align="center" style="display: float; float-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=zhezhaozz&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhezhaozz&show_icons=true&theme=radical&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhezhaozz&show_icons=true&theme=radical&layout=compact&hide=HTML,Javascript,Jupyter+Notebook" />
 </div>
 
 
